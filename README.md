@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-Report
 
-EDA report is exploring a dataset of sports activities performed by different users of a sports tracker during January and February 2021.
+This EDA report is exploring a dataset of sports activities performed by different users of a sports tracker during January and February 2021. My task was to load the data and explore it to find interesting, non-obvious observations. These findings can be either anomalies in the data that should be taken into consideration, or actual patterns and relationships between the variables.
 
 Data overview:
 - There are 1000 records
