@@ -3,9 +3,9 @@
 EDA report is exploring a dataset of sports activities performed by different users of a sports tracker during January and February 2021.
 
 Data overview:
-● There are 1000 records
-● There are 10 attributes (columns)
-● Missing values: 270 missing values in column ’location’
+- There are 1000 records
+- There are 10 attributes (columns)
+- Missing values: 270 missing values in column ’location’
 
 
 Findings:
